@@ -16,7 +16,7 @@ class Localization {
             number: "Syötä numero oikeassa muodossa.",
             digits: "Syötä vain numeroita.",
             signedDigits: "Syötä vain etumerkillisiä (+ tai -) numeroita.",
-            creditcard: "Syötä luottokorttinumero oikeassa muodossa.",
+            creditcard: "Syötä korttinumero oikeassa muodossa.",
             equalTo: "Syötä sama arvo uudelleen.",
             maxlength: "Syötä enintään {MaxLength} merkkiä.",
             minlength: "Syötä vähintään {MinLength} merkkiä.",
