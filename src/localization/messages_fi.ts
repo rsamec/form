@@ -7,8 +7,8 @@ class Localization {
      */
     static get ValidationMessages():any {
         return {
-            required: "Tämä kenttä on pakollinen.",
-            remote: "Korjaa tämä kenttä.",
+            required: "Kenttä on pakollinen.",
+            remote: "Korjaa kenttä.",
             email: "Syötä sähköpostiosoite oikeassa muodossa.",
             url: "Syötä verkkotunnus oikeassa muodossa.",
             date: "Syötä päivämäärä oikeassa muodossa.",
