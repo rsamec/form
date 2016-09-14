@@ -3,7 +3,7 @@ class Localization {
 
     /*
      * Translated default messages for the validation engine.
-     * Locale: EN (English; english)
+     * Locale: FI (Finnish; suomi)
      */
     static get ValidationMessages():any {
         return {
