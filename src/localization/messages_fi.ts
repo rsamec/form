@@ -24,7 +24,7 @@ class Localization {
             range: "Syötä välillä {Min} - {Max} välillä oleva arvo.",
             max: "Syötä arvo, joka on enintään {Max}.",
             min: "Syötä arvo, joka on vähintään {Min}.",
-            step: "Syötä arvon tulee kasvaa/vähentyä luvulla {Step}",
+            step: "Syötämäsi arvon tulee kasvaa/vähentyä luvulla {Step}",
             contains: "Syöttämäsi arvo '{AttemptedValue}' ei sisälly annettuihin vaihtoehtoihin.",
             mask: "Syötä vastaava arvo kuin {Mask}.",
             dateCompare: {
